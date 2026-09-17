@@ -1,10 +1,22 @@
 # Curling Stone
 
 <p align="center">
-  <img src="Assets/Art/UI/MainMenuBackground.png" width="300" alt="Curling Stone main menu">
+  <img src="docs/screenshots/main-menu.png" width="280" alt="Curling Stone main menu">
 </p>
 
 A mobile curling game built in Unity 6 (URP). Swipe to throw, hold to sweep, play against a friend on the same device or against an AI opponent with three difficulty levels — plus a no-pressure Chill Mode, a cosmetics shop, and a full in-game economy.
+
+## Screenshots
+
+| Select difficulty | Customize |
+|:---:|:---:|
+| <img src="docs/screenshots/select-difficulty.png" width="260" alt="Difficulty select screen"> | <img src="docs/screenshots/customize.png" width="260" alt="Customize screen with live 3D preview"> |
+| Three AI levels, told by stone colour and star count | Live 3D preview of the athlete wearing the selected hat |
+
+| Aiming | Sweeping |
+|:---:|:---:|
+| <img src="docs/screenshots/gameplay-aim.png" width="260" alt="Aiming down the sheet"> | <img src="docs/screenshots/gameplay-sweep.png" width="260" alt="Sweeping a sliding stone"> |
+| Line up the shot down the sheet toward the house | Hold to sweep — brooms follow the stone and cut friction |
 
 ## Game Modes
 
