@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 5594b34fdab48a14b9a7911ac4652304
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: I_Bottle
+    100004: I_Map
+    100006: I_tourist_bag
+    100008: I_tourist_bag_2
+    100010: I_tourist_google
+    100012: I_tourist_photo_camera
+    100014: tourist_beard
+    100016: tourist_beard_02
+    100018: tourist_eyebrows
+    100020: tourist_eyes
+    100022: tourist_hair
+    100024: tourist_hat
+    100026: tourist_hat_02
+    100028: tourist_necle
+    100030: tourist_necle_02
+    100032: tourist_shirt_01a
+    100034: tourist_shirt_01b
+    100036: tourist_Shoe_01a
+    100038: tourist_Shoe_02a
+    100040: tourist_teeth
+    100042: tourist_tezt
+    100044: tourist_trousers_01a
+    100046: tourist_trousers_01b
+    400000: //RootNode
+    400002: I_Bottle
+    400004: I_Map
+    400006: I_tourist_bag
+    400008: I_tourist_bag_2
+    400010: I_tourist_google
+    400012: I_tourist_photo_camera
+    400014: tourist_beard
+    400016: tourist_beard_02
+    400018: tourist_eyebrows
+    400020: tourist_eyes
+    400022: tourist_hair
+    400024: tourist_hat
+    400026: tourist_hat_02
+    400028: tourist_necle
+    400030: tourist_necle_02
+    400032: tourist_shirt_01a
+    400034: tourist_shirt_01b
+    400036: tourist_Shoe_01a
+    400038: tourist_Shoe_02a
+    400040: tourist_teeth
+    400042: tourist_tezt
+    400044: tourist_trousers_01a
+    400046: tourist_trousers_01b
+    2100000: EA_Character_Male_Tourist_Palette
+    2100002: item
+    2300000: I_Bottle
+    2300002: I_Map
+    2300004: I_tourist_bag
+    2300006: I_tourist_bag_2
+    2300008: I_tourist_google
+    2300010: I_tourist_photo_camera
+    2300012: tourist_beard
+    2300014: tourist_beard_02
+    2300016: tourist_eyebrows
+    2300018: tourist_eyes
+    2300020: tourist_hair
+    2300022: tourist_hat
+    2300024: tourist_hat_02
+    2300026: tourist_necle
+    2300028: tourist_necle_02
+    2300030: tourist_shirt_01a
+    2300032: tourist_shirt_01b
+    2300034: tourist_Shoe_01a
+    2300036: tourist_Shoe_02a
+    2300038: tourist_teeth
+    2300040: tourist_tezt
+    2300042: tourist_trousers_01a
+    2300044: tourist_trousers_01b
+    3300000: I_Bottle
+    3300002: I_Map
+    3300004: I_tourist_bag
+    3300006: I_tourist_bag_2
+    3300008: I_tourist_google
+    3300010: I_tourist_photo_camera
+    3300012: tourist_beard
+    3300014: tourist_beard_02
+    3300016: tourist_eyebrows
+    3300018: tourist_eyes
+    3300020: tourist_hair
+    3300022: tourist_hat
+    3300024: tourist_hat_02
+    3300026: tourist_necle
+    3300028: tourist_necle_02
+    3300030: tourist_shirt_01a
+    3300032: tourist_shirt_01b
+    3300034: tourist_Shoe_01a
+    3300036: tourist_Shoe_02a
+    3300038: tourist_teeth
+    3300040: tourist_tezt
+    3300042: tourist_trousers_01a
+    3300044: tourist_trousers_01b
+    4300000: tourist_trousers_01b
+    4300002: tourist_trousers_01a
+    4300004: tourist_tezt
+    4300006: tourist_teeth
+    4300008: tourist_shirt_01b
+    4300010: tourist_shirt_01a
+    4300012: tourist_necle_02
+    4300014: tourist_necle
+    4300016: tourist_hat_02
+    4300018: tourist_hat
+    4300020: tourist_hair
+    4300022: tourist_eyes
+    4300024: tourist_eyebrows
+    4300026: tourist_beard_02
+    4300028: tourist_beard
+    4300030: tourist_Shoe_02a
+    4300032: tourist_Shoe_01a
+    4300034: I_tourist_photo_camera
+    4300036: I_tourist_google
+    4300038: I_tourist_bag_2
+    4300040: I_tourist_bag
+    4300042: I_Map
+    4300044: I_Bottle
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

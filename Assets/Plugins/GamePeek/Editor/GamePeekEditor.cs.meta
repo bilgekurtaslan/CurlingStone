@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 84828568165b8b34ca6ef5eb8e603133
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 365318
+  packageName: GamePeek - Mobile Remote Display
+  packageVersion: 2.5.0
+  assetPath: Assets/Plugins/GamePeek/Editor/GamePeekEditor.cs
+  uploadId: 979212

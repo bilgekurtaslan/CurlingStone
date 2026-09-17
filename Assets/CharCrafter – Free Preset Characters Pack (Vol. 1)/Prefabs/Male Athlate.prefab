@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6249627504914066142
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      propertyPath: m_Name
+      value: Male Athlate
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2828425087289356490}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 995122939560715495}
+  m_SourcePrefab: {fileID: 100100000, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+--- !u!137 &2772202637972213075 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 8125607009494361997, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+  m_PrefabInstance: {fileID: 6249627504914066142}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &4810137872611512947 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -7747834087947077459, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+  m_PrefabInstance: {fileID: 6249627504914066142}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6519605648272185231 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+  m_PrefabInstance: {fileID: 6249627504914066142}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &2828425087289356490
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6519605648272185231}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: e12fa57aa3f2f254aa6c3812df5fe958, type: 3}
+  m_Controller: {fileID: 9100000, guid: 401cabc2ce7181b48a3d0b1cce646f57, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: "\nBinding warning: Some generic clip(s) animate transforms that
+    are already bound by a Humanoid avatar. These transforms can only be changed
+    by Humanoid clips.\n\tTransform 'Arm_Lower.L'\n\tTransform 'Head'\n\tTransform
+    'Leg_Upper.R'\n\tTransform 'Toes.L'\n\tTransform 'Spine'\n\tTransform 'Arm_Upper.R'\n\tTransform
+    'Arm_Upper.L'\n\tTransform 'Arm_Lower.R'\n\tTransform 'Hand.R'\n\tTransform 'Hand.L'\n\tand
+    more ...\n\tFrom animation clip 'Idle'"
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &995122939560715495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6519605648272185231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8e5f1a9c3d4e6f7a0b2c5d8e1f4a7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AthleteController
+  topRenderer: {fileID: 4810137872611512947}
+  bottomRenderer: {fileID: 2772202637972213075}
+  athleteAnimator: {fileID: 2828425087289356490}
+  blueTop: {fileID: 2100000, guid: 58757e2b52eef3b4ca32a1669dbb3691, type: 2}
+  redTop: {fileID: 2100000, guid: bc755a8095027314faa33c456a98a2d1, type: 2}
+  blueBottom: {fileID: 2100000, guid: 6e386ce5b07e8fd46b09e1ead0949412, type: 2}
+  redBottom: {fileID: 2100000, guid: 50d02e3cbf037944d957ff33d647cb4e, type: 2}
+  broomRenderer: {fileID: 0}
+  broomBlueColor: {r: 0.3160377, g: 0.45993277, b: 1, a: 1}
+  broomRedColor: {r: 0.8509804, g: 0.2794024, b: 0.21960784, a: 1}
+  crouchingStateName: Crouching
+  sweepingStateName: Sweeping
+  walkingStateName: Walking
+  broomTransform: {fileID: 0}
+  walkingBroomLocalPosition: {x: 0, y: 0, z: 0}
+  walkingBroomLocalRotation: {x: 0, y: 0, z: 0}
+  sweepingBroomLocalPosition: {x: 0, y: 0, z: 0}
+  sweepingBroomLocalRotation: {x: 0, y: 0, z: 0}
+  followSpeed: 12
+  minX: -3.2
+  maxX: 3.2
+  wallCornerRadius: 4
+  wallCornerExtraStepBack: 2.6
+  wallCornerTurnAngle: 90
